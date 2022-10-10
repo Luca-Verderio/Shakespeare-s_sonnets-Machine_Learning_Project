@@ -1,4 +1,4 @@
-# Words Prediction: Shakespeare's-sonnets
+# Words Prediction: Shakespeare's-sonnets data set
 The goal of the project was to implement a **Deep Neural Network**, using **TensorFlow**, to predict the next word in a text sequence, using a corpus of Shakespeare's sonnets.
 
 This assignment is part of the "DeepLearning.AI TensorFlow Developer" course.
